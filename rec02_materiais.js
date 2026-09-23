@@ -9,5 +9,5 @@ const total = qtdeComprada * precoUnitario
 console.log(`=== RESUMO DA COMPRA ===` );
 console.log(`Nome da peca: ${peca}`);
 console.log(`Quantidade comprada: ${qtdeComprada}`);
-console.log(`Valor final da compra: "R$" ${total.toFixed(2)}`)
+console.log(`Valor final da compra: R$ ${total.toFixed(2)}`)
 
